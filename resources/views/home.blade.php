@@ -543,8 +543,7 @@
                                 </div>
                             </div>
                             <div class="col-12 text-center">
-                                <a class="btn btn-primary rounded-pill py-3 px-5" href="product.html">Lihat
-                                    Selengkapnya</a>
+                                <a class="btn btn-primary rounded-pill py-4 px-5" href="{{ url('/product') }}">Lihat Selengkapnya</a>
                             </div>
                         </div>
                     </div>
